@@ -1,0 +1,10 @@
+.place {
+ display: grid;
+ grid-template-areas:
+ "title website"
+ "image description"
+ ;
+ grid-template-columns: 460px 1fr;
+ gap: 48px 40px;
+ padding-top: 80px;
+}
