@@ -1,6 +1,17 @@
 .header {
-  width: 100%;
   display: flex;
   justify-content: space-between;
-  align-items: flex-end;
+  padding: 28px 48px 0;
 }
+
+@media screen and (max-width: 767px) {
+  .header {
+    padding: 11px 16px 0;
+  }
+  }
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .header {
+    padding: 28px 24px 0;
+  }
+  }

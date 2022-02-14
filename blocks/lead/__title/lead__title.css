@@ -2,13 +2,32 @@
   margin: 56px auto 0;
   padding: 0;
   box-sizing: border-box;
+  width: 720px;
   text-align: center;
   font-family: Inter;
   font-style: normal;
   font-weight: 900;
   font-size: 96px;
   line-height: 1.04;
-  color: #fff;
-  width: calc(100% - (280px - 148px)*2); /*При 240 отображается лучше*/
 }
 
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .lead__title {
+    margin-top: 48px;
+}
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .lead__title {
+    margin-top: 48px;
+}
+}
+
+@media screen and (max-width: 767px) {
+  .lead__title {
+    margin-top: 44px;
+    width: 288px;
+    font-size: 40px;
+    line-height: 1.10;
+}
+}
