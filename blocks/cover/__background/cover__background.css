@@ -8,7 +8,6 @@
   left: 0;
   right: 0;
   object-fit: cover;
-  /* object-position: 0 16px; */
   display: block;
   z-index: -2;
 }
