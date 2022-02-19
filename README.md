@@ -50,5 +50,4 @@ In creating of this website, the following technologies were used:
 #### __Sergey Litvinenko__
 #### **_19/02/2022_**
 
-![Яндекс Практикум](https://innovationmap.innoagency.ru/logo/%D0%9E%D0%A226.PNG)
-
+<img src="./images/logo/Prakticum.png" width="183px">
