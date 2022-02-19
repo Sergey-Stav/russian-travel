@@ -20,7 +20,7 @@
 - Методология БЭМ
 
 ### Ссылка на проект
-[https://sergey-stav.github.io/russian-travel/]
+https://sergey-stav.github.io/russian-travel/
 
 #### __Сергей Литвиненко__
 #### **_19/02/2022_**
@@ -47,7 +47,7 @@ In creating of this website, the following technologies were used:
 -	BEM methodology
 
 ### Project link
-[https://sergey-stav.github.io/russian-travel/]
+https://sergey-stav.github.io/russian-travel/
 
 #### __Sergey Litvinenko__
 #### **_19/02/2022_**
