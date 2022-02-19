@@ -13,7 +13,7 @@
 @media (min-width: 768px) and (max-width: 1279px) {
   .lead__title {
     margin-top: 48px;
-}
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -22,5 +22,5 @@
     width: 288px;
     font-size: 40px;
     line-height: 1.10;
-}
+  }
 }

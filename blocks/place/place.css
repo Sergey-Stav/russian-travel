@@ -1,10 +1,5 @@
 .place {
  display: grid;
- /* grid-template-areas:
- "title website"
- "image description"
- ; */
-
  grid-template-columns: 460px 1fr;
  gap: 48px 40px;
  padding-top: 79px;
@@ -29,7 +24,7 @@
   }
   .place:first-of-type {
     padding-top: 89px;
-}
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -40,5 +35,5 @@
   }
   .place:first-of-type {
     padding-top: 64px;
-}
+  }
 }
