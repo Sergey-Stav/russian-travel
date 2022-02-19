@@ -28,18 +28,16 @@ https://sergey-stav.github.io/russian-travel/
 # Проект 3: Traveling in Russia
 
 ### Description:
-Учебный проект выполненный в рамках проектной работы по адаптивной вёрстке в котором
-представлены некоторые из многочисленных достопримечательностей России :
+Learning project carried out as a part of the project work of adaptive layout, where some of sights of Russia are described:
 - Curonian Spit
 - Kola Peninsula
 - Altai
 - Baikal
 - Karelia
 
-Проект содержит полезные ссылки по рассмотренной теме.
+This project contains useful links to reviewed work.
 
-Разработан в рамках изучения темы "Адаптивная вёрстка и работа с макетом" при
-прохождении курса Web-разработчик от Яндекс.Практикум
+The project was developed as a part of the study of the topic "Adaptive layout and work with layout" passing the course web-developer from Yandex Practicum
 
 In creating of this website, the following technologies were used:
 -	HTML
