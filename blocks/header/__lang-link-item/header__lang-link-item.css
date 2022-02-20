@@ -1,0 +1,8 @@
+.header__lang-link-item {
+  display: inline;
+  margin-left: 14px;
+}
+
+.header__lang-link-item:first-of-type {
+  margin-left: 0;
+}
