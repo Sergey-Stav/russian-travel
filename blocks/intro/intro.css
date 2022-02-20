@@ -5,7 +5,7 @@
 
 @media (min-width: 1024px) and (max-width: 1279px) {
   .intro {
-    padding-left: calc((100vw - 928px)/2);
+    padding-left: calc((100vw - 928px) / 2);
   }
 }
 
